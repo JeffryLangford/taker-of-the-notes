@@ -33,22 +33,24 @@
             <ul class="list-group"></ul>
           </div>
         </div>
-        <div class="d-flex col-8 p-2">
+        <div class="p-2">
           <input
             id="note-title"
-            class="border border-white m-2"
+            class="border border-white m-2 h2 w-100 border-0"
             placeholder="Note Title"
             maxlength="28"
             type="text"
           />
           <textarea 
             id="note-textarea" 
-            class="border border-white m-2" 
+            class="border border-white m-2 col-6 w-100 h-50 border-0" 
             placeholder="Note Text"
             minlength="100"
           ></textarea>
-          <button id="save-note" class="btn bg-dark m-2">Save Note</button>
-          <button id="new-note" class="btn bg-dark m-2">New Note</button>
+            <div class="row">
+              <button id="save-note" class="btn bg-dark m-2">Save Note</button>
+              <button id="new-note" class="btn bg-dark m-2">New Note</button>
+            </div>
         </div>
       </div>
     </div>

@@ -1,18 +1,18 @@
 {
   "notes": [
     {
-      "title": "First Note",
-      "text": "This is the first note",
-      "id": "0"
-    },
-    {
-      "title": "Title",
-      "text": "Text",
+      "title": "Array.prototype.push()",
+      "text": "The push() method adds one or more elements to the end of an array and returns the new length of the array.",
       "id": "1"
     },
     {
       "title": "Groceries",
-      "text": "Milk, eggs, beans, fried chicken",
+      "text": "Milk, Eggs, Salmon, Guac",
+      "id": "1"
+    },
+    {
+      "title": "Errands",
+      "text": "haircut, groceries, bank, eat",
       "id": "2"
     }
   ]
