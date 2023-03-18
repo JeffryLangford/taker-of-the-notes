@@ -7,6 +7,7 @@ Note Taker is an app to help organize different thoughts, comments and other thi
 
 ## Link to Application
 
+https://notetakerjlangford.herokuapp.com/
 
 ## Screenshot
 
